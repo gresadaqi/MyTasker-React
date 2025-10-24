@@ -1,2 +1,2 @@
 # MyTasker-React
-A task management web app built with React and TypeScript. Includes task creation, filtering, and dark mode. Focused on simplicity and user experience.
+A simple task management app built using React and TypeScript.Includes task creation, completion toggle, and filtering features.Customized with a responsive layout and dark mode.
